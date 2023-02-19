@@ -7,7 +7,7 @@ Ext.define('hello.view.main.MainModel', {
     alias: 'viewmodel.main',
 
     data: {
-        name: 'hello',
+        name: 'ext-demo',
 
         loremIpsum: 'Hello extjs'
     }
