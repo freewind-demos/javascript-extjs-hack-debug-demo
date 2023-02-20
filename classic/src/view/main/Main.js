@@ -33,7 +33,7 @@ Ext.define('hello.view.main.Main', {
         },
         title: {
             bind: {
-                text: '{name}'
+                text: '{name}',
             },
             flex: 0
         },
